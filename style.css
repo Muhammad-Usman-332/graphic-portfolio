@@ -13,7 +13,7 @@ header {
 /* hero section */
 
 .hero_section {
-    background-image: url(images/dpcopy.jpg); 
+    background-image: url(dpcopy.jpg); 
     background-size: 100% 100%;
     height: 1080px;
 }
