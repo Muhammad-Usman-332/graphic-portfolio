@@ -139,6 +139,16 @@ a {
     background-image: url(pasta-pagioli-spoup.jpg);
     background-size: 100% 100%;
     border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+.pic6 {
+    height: 420px;
+    padding-left: 20vw;
+    background-image: url(CRITICAL-thinking.jpg);
+    background-size: 100% 100%;
+    border-radius: 10px;
+    margin-bottom: 30px;
 }
 
 /* about me section */
