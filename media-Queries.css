@@ -1,0 +1,761 @@
+
+@media (max-width: 1536px) {
+
+    .super-hero-section {
+        height: 550px;
+    }
+
+    .hero_section_h1_tag {
+        font-size: 60px
+    }
+
+    .hero_section {
+        margin-left: 150px;
+        margin-right: 30px;
+        height: 450px;
+        width: 450px;
+        margin-top: 50px;
+    }
+
+    .button {
+        margin-left: 180px;
+    }
+
+    .all-SECTION {
+        width: 80vw;
+        margin-left: 150px;
+    }
+
+    .pic1 {
+        height: 600px;
+    }
+
+    .pic2 {
+        height: 600px;
+    }
+
+    .pic3 {
+        height: 600px;
+    }
+
+    .pic4 {
+        height: 600px;
+    }
+
+    .pic5 {
+        height: 600px;
+    }
+
+    .pic6 {
+        height: 600px;
+    }
+
+    .pic7 {
+        height: 600px;
+    }
+
+    .img-collection {
+        height: 600px;
+        width: 80vw;
+    }
+
+    .pic8 {
+        width: 592px;
+        height: 290px;
+    }
+
+    .pic9 {
+        width: 592px;
+        height: 290px;
+    }
+
+    .pic10 {
+        width: 592px;
+        height: 290px;
+    }
+
+    .pic11 {
+        width: 592px;
+        height: 290px;
+    }
+
+    #aboutme {
+        width: 80vw;
+        margin-left: 150px;
+    }
+
+    #offer {
+        width: 80vw;
+        margin-left: 150px;
+    }
+
+    #worktogether {
+        width: 80vw;
+        margin-left: 150px;
+    }
+
+    .messagebox {
+        height: 600px;
+    }
+
+    form {
+        width: 76vw;
+        height: 565px;
+    }
+
+    form input, form textarea, .send-msg-button {
+        width: 73vw;
+        height: 60px;
+        margin-left: 20px;
+    }
+
+    form textarea {
+        height: 130px;
+    }
+
+    .p-tag {
+        height: 70px;
+    }
+
+    .offer p {
+        font-size: 40px;
+    }
+
+}
+
+@media (max-width: 1280px) {
+
+    .super-hero-section {
+        padding-right: 30px;
+        height: 510px;
+    }
+
+    .hero_section_h1_tag {
+        font-size: 54px
+    }
+
+    .hero_section {
+        margin-left: 100px;
+        height: 400px;
+        width: 400px;
+        margin-top: 70px;
+    }
+
+    .button {
+        margin-left: 180px;
+    }
+
+    .pic1 {
+        height: 520px;
+    }
+
+    .pic2 {
+        height: 520px;
+    }
+
+    .pic3 {
+        height: 520px;
+    }
+
+    .pic4 {
+        height: 520px;
+    }
+
+    .pic5 {
+        height: 520px;
+    }
+
+    .pic6 {
+        height: 520px;
+    }
+
+    .pic7 {
+        height: 520px;
+    }
+
+    .all-SECTION {
+        width: 80vw;
+        margin-left: 130px;
+    }
+
+    .pic8 {
+        width: 502px;
+    }
+    .pic9 {
+        width: 502px;
+    }
+
+    .pic10 {
+        width: 502px;
+    }
+
+    .pic11 {
+        width: 502px;
+    }
+
+    #aboutme {
+        width: 80vw;
+        margin-left: 130px;
+    }
+
+    #offer {
+        width: 80vw;
+        margin-left: 130px;
+    }
+
+    #worktogether {
+        width: 80vw;
+        margin-left: 130px;
+    }
+
+    form {
+        width: 75vw;
+        height: 565px;
+    }
+
+    form input, form textarea, .send-msg-button {
+        width: 71vw;
+        margin-left: 20px;
+    }
+
+}
+
+@media (max-width: 1024px) {
+
+    .super-hero-section {
+        padding-right: 30px;
+    }
+
+    .hero_section_h1_tag {
+        font-size: 48px
+    }
+
+    .hero_section {
+        margin-left: 50px;
+        height: 400px;
+        margin-top: 50px;
+    }
+
+    .button {
+        margin-left: 140px;
+    }
+
+    .all-SECTION {
+        width: 80vw;
+        margin-left: 110px;
+    }
+    .pic8 {
+        width: 400px;
+    }
+
+    .pic9 {
+        width: 400px;
+    }
+
+    .pic10 {
+        width: 400px;
+    }
+
+    .pic11 {
+        width: 400px;
+    }
+
+    #aboutme {
+        width: 80vw;
+        margin-left: 110px;
+    }
+
+    #offer {
+        width: 80vw;
+        margin-left: 110px;
+    }
+
+    .p-tag {
+        height: 56px;
+    }
+
+
+    .offer p {
+        font-size: 30px;
+    }
+
+    #worktogether {
+        width: 80vw;
+        margin-left: 110px;
+    }
+
+    form {
+        width: 75vw;
+        height: 465px;
+    }
+
+    form input, form textarea, .send-msg-button {
+        width: 71vw;
+        margin-left: 20px;
+    }
+
+}
+
+@media (max-width: 768px) {
+
+    .super-hero-section {
+        padding-right: 30px;
+        height: 450px;
+    }
+
+    .hero_section_h1_tag {
+        font-size: 40px
+    }
+
+    .hero_section {
+        margin-left: 40px;
+        height: 290px;
+        margin-top: 80px;
+    }
+
+    .button {
+        margin-left: 70px;
+    }
+
+    .all-SECTION {
+        width: 90vw;
+        margin-left: 40px;
+    }
+    .pic8 {
+        width: 336px;
+    }
+
+    .pic9 {
+        width: 336px;
+    }
+
+    .pic10 {
+        width: 336px;
+    }
+
+    .pic11 {
+        width: 336px;
+    }
+
+    #aboutme {
+        width: 90vw;
+        margin-left: 40px;
+    }
+
+    #offer {
+        width: 90vw;
+        margin-left: 40px;
+    }
+
+    .p-tag {
+        height: 50px;
+    }
+
+    .offer p {
+        font-size: 25px;
+    }
+
+    #worktogether {
+        width: 90vw;
+        margin-left: 40px;
+    }
+
+    form {
+        width: 83vw;
+        height: 465px;
+    }
+
+    form input, form textarea, .send-msg-button {
+        width: 78vw;
+        margin-left: 18px;
+    }
+
+}
+
+@media (max-width: 424px) {
+
+    .super-hero-section {
+        height: 250px;
+        width: 100%;
+        padding-right: 0;
+    }
+
+    .hero_section_h1_tag {
+        width: 220px;
+        margin-right: 15px;
+        /* border: red solid 2px; */
+    }
+
+    .hero_section_h1_tag, h1 {
+        font-size: 40px;
+    }
+
+    .hero_section_h1_tag, p {
+        font-size: 10px;
+        margin-top: 20px;
+    }
+
+    .hero_section {
+        height: 200px;
+        width: 200px;
+        margin: 30px 5px;
+    }
+
+    .button {
+        /* margin-left: 5px; */
+        margin-top: 15px;
+        margin-left: 5px;
+        width: 100%;
+        height: 25px;
+    }
+
+    .button a {
+        font-size: 18px;
+        padding-bottom: 10px;
+    }
+    
+    .button button {
+        padding-bottom: 3px;
+    }
+
+    #work {
+        font-size: 35px;
+    }
+
+    .pic1 {
+        height: 200px;
+        width: 95vw;
+
+    }
+
+    .pic2 {
+        height: 200px;
+        width: 95vw;
+    }
+
+    .pic3 {
+        height: 200px;
+        width: 95vw;
+    }
+
+    .pic4 {
+        height: 200px;
+        width: 95vw;
+    }
+
+    .pic5 {
+        height: 200px;
+        width: 95vw;
+    }
+
+    .pic6 {
+        height: 200px;
+        width: 95vw;
+    }
+
+    .pic7 {
+        height: 200px;
+        width: 95vw;
+    }
+
+    .all-SECTION {
+        width: 95vw;
+        margin-left: 2.5vw;
+    }
+
+    .img-collection {
+        height: auto;
+    }
+    .pic8 {
+        width: 193px;
+        height: 100px;
+    }
+
+    .pic9 {
+        width: 193px;
+        height: 100px;
+    }
+
+    .pic10 {
+        width: 193px;
+        height: 100px;
+    }
+
+    .pic11 {
+        width: 193px;
+        height: 100px;
+    }
+
+    #aboutme {
+        width: 95vw;
+        margin-left: 2.5vw;
+    }
+
+    .about {
+        padding-top: 20px;
+        font-size: 35px;
+    }
+
+    .about-me {
+        height: 280px;
+    }
+
+    .about-paragraph {
+        font-size: 15px;
+        padding-top: 0px;
+    }
+
+    #offer {
+        width: 95vw;
+        margin-left: 2.5vw;
+    }
+
+    .offer-ka-h1 {
+        font-size: 35px;
+    }
+
+    .p-tag {
+        height: 32px;
+        padding-top: 6px;
+    }
+
+    .offer p {
+        font-size: 16px;
+    }
+
+    #worktogether {
+        width: 95vw;
+        margin-left: 2.5vw;
+    }
+
+    .messagebox {
+        height: 400px;
+    }
+
+    .together {
+        font-size: 35px;
+    }
+
+    form {
+        width: 83vw;
+        height: 365px;
+    }
+
+    form input, form textarea, .send-msg-button {
+        width: 78vw;
+        height: 30px;
+        margin-left: 10px;
+    }
+
+    .name, .email, .message {
+        font-size: 15px;
+        margin-left: 15px;
+    }
+
+    .send-msg-button {
+        font-size: 16px;
+    }
+
+    .footer {
+        font-size: 13px;
+        margin-top: 10px;
+        padding-bottom: 20px;
+    }
+
+}
+
+@media (max-width: 320px) {
+
+    .super-hero-section {
+        height: 220px;
+        width: 100%;
+        padding-right: 0;
+    }
+
+    .hero_section_h1_tag {
+        width: 200px;
+        margin-right: 15px;
+    }
+
+    .hero_section_h1_tag, h1 {
+        font-size: 30px;
+    }
+
+    .hero_section_h1_tag, p {
+        font-size: 10px;
+        margin-top: 20px;
+    }
+
+    .hero_section {
+        height: 150px;
+        width: 180px;
+        margin: 35px 5px;
+    }
+
+    .button {
+        /* margin-left: 5px; */
+        margin-top: 15px;
+        margin-left: 5px;
+        width: 100%;
+        height: 25px;
+    }
+
+    .button a {
+        font-size: 15px;
+    }
+    
+    .button button {
+        padding-bottom: 5px;
+    }
+
+    #work {
+        font-size: 30px;
+    }
+
+    .pic1 {
+        height: 170px;
+        width: 95vw;
+
+    }
+
+    .pic2 {
+        height: 170px;
+        width: 95vw;
+    }
+
+    .pic3 {
+        height: 170px;
+        width: 95vw;
+    }
+
+    .pic4 {
+        height: 170px;
+        width: 95vw;
+    }
+
+    .pic5 {
+        height: 170px;
+        width: 95vw;
+    }
+
+    .pic6 {
+        height: 170px;
+        width: 95vw;
+    }
+
+    .pic7 {
+        height: 170px;
+        width: 95vw;
+    }
+
+    .all-SECTION {
+        width: 95vw;
+        margin-left: 2.5vw;
+    }
+
+    .img-collection {
+        height: auto;
+    }
+
+
+    .pic8 {
+        width: 148px;
+        height: 80px;
+        margin-right: 8px;
+    }
+
+    .pic9 {
+        width: 148px;
+        height: 80px;
+        margin-bottom: 8px;
+    }
+
+    .pic10 {
+        width: 148px;
+        height: 80px;
+        margin-right: 8px;
+    }
+
+    .pic11 {
+        width: 148px;
+        height: 80px;
+    }
+
+    #aboutme {
+        width: 95vw;
+        margin-left: 2.5vw;
+    }
+
+    .about {
+        padding-top: 20px;
+        font-size: 30px;
+    }
+
+    .about-me {
+        height: 250px;
+    }
+
+    .about-paragraph {
+        font-size: 12px;
+        padding-top: 0px;
+    }
+
+    #offer {
+        width: 95vw;
+        margin-left: 2.5vw;
+    }
+
+    .offer-ka-h1 {
+        font-size: 30px;
+    }
+
+    .p-tag {
+        height: 28px;
+        padding-top: 6px;
+    }
+
+    .offer p {
+        font-size: 12px;
+    }
+
+    #worktogether {
+        width: 95vw;
+        margin-left: 2.5vw;
+    }
+
+    .messagebox {
+        height: 365px;
+    }
+
+    .together {
+        font-size: 30px;
+    }
+
+    form {
+        width: 81vw;
+        height: 340px;
+        margin-left: 22px;
+    }
+
+    form input, form textarea, .send-msg-button {
+        width: 75vw;
+        height: 25px;
+        margin-left: 9px;
+    }
+
+    .name, .email, .message {
+        font-size: 15px;
+        margin-left: 15px;
+    }
+
+    .send-msg-button {
+        font-size: 13px;
+    }
+
+    .footer {
+        font-size: 8px;
+        margin-top: 10px;
+        padding-bottom: 20px;
+    }
+
+}
